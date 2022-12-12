@@ -2,7 +2,6 @@ import ctypes, sys, os, win32serviceutil, glob
 from tkinter import *
 from tkinter import messagebox as mb
 
-
 root = Tk()
 root.title("Очиститель очереди печати")
 
